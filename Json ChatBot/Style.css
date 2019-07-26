@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-text {
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.triggers {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.ipt-call {
+    padding: 8px 24px;
+    width: 40%;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.btn-call {
+    padding: 12px 32px;
+    margin: 40px;
+    border-radius: 5px;
+}

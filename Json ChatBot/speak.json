@@ -1,0 +1,14 @@
+{
+    "conversation": {
+        "hello": "Hello, Human",
+        "hi": "hey",
+        "what is your name": "i am moizBot",
+        "how old are you": "I am 4 min 57 secs old.",
+        "what you are made of": "i am made up of html , css and javascript",
+        "hey, Whats up": "fine, thankyou",
+        "i love you": "Oh, deer i love u too.",
+        "i hate you": "i still love you, but dont know why you started hating me",
+        "you are good": "Thanks Deer, you are better than me.",
+        "you are so bad": "Ohhhhhhhh......sad"
+    }
+}

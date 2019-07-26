@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-text {
+    padding-top: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.btn-bored {
+    padding: 10px 24px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.ipt-data {
+    padding: 10px 32px;
+    width: 40%;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.data-collect {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+}
